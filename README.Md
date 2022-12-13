@@ -13,4 +13,4 @@ Run the project:
 
 Then test it by running this on another terminal window:
 
-`curl -H "Authorization: fake-auth-token" http://localhost:5000/`
+`curl -H "Authorization: fake-auth-token" http://localhost:5000/propagate`
